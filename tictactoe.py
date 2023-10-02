@@ -7,9 +7,11 @@ Exercises
     codigo cor     
     color('red')
     color('blue')
-    codigo 
-
-
+    codigo tamanho x
+    line(x+30, y+30, x + 90, y + 90)
+    line(x+30, y + 90, x + 90, y+30)
+    codigo tamanho o
+    circle(35)
 2. What happens when someone taps a taken spot?
     aparece x ou o
 3. How would you detect when someone has won?
